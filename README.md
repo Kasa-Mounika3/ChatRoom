@@ -1,1 +1,1 @@
-
+A simple real-time chat application that allows multiple users to communicate instantly through a web interface. This project demonstrates the basics of full-stack web development using frontend technologies and a Node.js backend.
